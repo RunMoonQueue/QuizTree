@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "628175971162",
+    "project_id": "quiztree-c0fab",
+    "storage_bucket": "quiztree-c0fab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628175971162:android:d8efb51ddd9d0a12184963",
+        "android_client_info": {
+          "package_name": "com.moon.quiztree"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628175971162-3gmc1m7cagjna7mjt4ma1qbdkhkid9df.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moon.quiztree",
+            "certificate_hash": "ab2e547f57cbb4215b27ee18d118f08d3779f506"
+          }
+        },
+        {
+          "client_id": "628175971162-l19up29q61q54k1n740idperjmg9mtam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE4jAHt2jG31L04km93B5wYWB8tlCQ55U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628175971162-l19up29q61q54k1n740idperjmg9mtam.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
